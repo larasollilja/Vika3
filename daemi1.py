@@ -1,0 +1,2 @@
+print("HÆHÆ")
+print("HÆHó")
